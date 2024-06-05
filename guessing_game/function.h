@@ -4,6 +4,6 @@
 #include <string>
 #include <algorithm>
 
-void main_menu(){}; 
+void main_menu(); 
 
 
